@@ -11,4 +11,5 @@
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) 
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=C
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white)](https://github.com/search?q=canva)
+
