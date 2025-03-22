@@ -1,5 +1,5 @@
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=650&lines=%F0%9F%91%8B+Hey+there!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Step+into+My+TechnicalWorld+%F0%9F%8C%8D;Exploring+My+%26+Skills+in+Technical Field+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=650&lines=%F0%9F%91%8B+Hey+there!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Step+into+My+TechnicalWorld+%F0%9F%8C%8D;Exploring+My+Skills+in+Technical Field+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
 ## Hi there 👋 My Skills
