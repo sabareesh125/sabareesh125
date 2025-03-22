@@ -1,8 +1,8 @@
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=650&lines=%F0%9F%91%8B+Hey+there!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Step+into+My+CyberWorld+%F0%9F%8C%8D;Exploring+Threats+%26+Defenses+in+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=650&lines=%F0%9F%91%8B+Hey+there!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Step+into+My+TechnicalWorld+%F0%9F%8C%8D;Exploring+Threats+%26+Defenses+in+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
-## Hi there 👋 Welcome to my technical world
+## Hi there 👋 My Skills
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23121011.svg?logo=java&logoColor=white)](https://github.com/search?q=java)
 [![C Language](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)](https://github.com/search?q=c+language)
