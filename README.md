@@ -1,5 +1,5 @@
 <h1 align='center'>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=700&lines=%F0%9F%91%8B+Hey+there!+Welcome+to+My+DevSpace+%F0%9F%92%BB;I+am+Sabareesh+Balu+%F0%9F%92%BC+Web+%26+Software+Developer;Bringing+Ideas+to+Life+Through+Code+%F0%9F%92%A1;Crafting+Responsive+Websites+with+HTML%2C+CSS%2C+JS+%E2%9C%A8;Building+Backends+with+Java+%7C+python+Flask+%F0%9F%94%A5;Problem+Solver+%7C+Tech+Explorer+%7C+Lifelong+Learner+%F0%9F%93%96;Let's+Code+Something+Amazing+Together+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=700&lines=%F0%9F%91%8B+Hey+there!+Welcome+to+My+DevSpace+%F0%9F%92%BB;I+am+Sabareesh+Balu+%F0%9F%92%BC+Web+%26+Software+Developer;Bringing+Ideas+to+Life+Through+Code+%F0%9F%92%A1;Crafting+Responsive+Websites+with+HTML%2C+CSS%2C+JS+%E2%9C%A8;Building+Backends+with+Java+%7C+python+Flask+%F0%9F%94%A5;Problem+Solver+%7C+Tech+Explorer+%7C+Lifelong+Learner+%F0%9F%93%96;Code+Something+Amazing+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
 
