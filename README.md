@@ -1,6 +1,7 @@
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=650&lines=%F0%9F%91%8B+Hey+there!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Step+into+My+Technical world+%F0%9F%8C%8D;Exploring+My Developments%26+in+Software Side" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=650&lines=%F0%9F%91%8B+Hey+there!+%F0%9F%92%BB+Welcome+to+My+DevSpace+%F0%9F%92%BB;Crafting+Web+and+Software+Solutions+%F0%9F%92%BB%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </h1>
+
 
 
 ## Hi there 👋 My Skills
