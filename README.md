@@ -7,6 +7,7 @@
 ## Hi there 👋 My Skills
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23121011.svg?logo=java&logoColor=white)](https://github.com/search?q=java)
+[![Software Developer](https://img.shields.io/badge/Software%20Developer-%2300ADD8.svg?logo=codio&logoColor=white)](#)
 [![C Language](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)](https://github.com/search?q=c+language)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
@@ -15,7 +16,13 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![Front-End](https://img.shields.io/badge/Front--End-%23E34F26?logo=html5&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)](#)
+[![React](https://img.shields.io/badge/React-%2320232a?logo=react&logoColor=%2361DAFB)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white)](https://github.com/search?q=canva)
 
