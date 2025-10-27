@@ -7,6 +7,12 @@
 ## Hi there 👋 My Skills
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23121011.svg?logo=java&logoColor=white)](https://github.com/search?q=java)
+[![Servlet](https://img.shields.io/badge/Servlet-4EAA25?logo=java&logoColor=white)](#)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)](#)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#)
+[![JDBC](https://img.shields.io/badge/JDBC-007396?logo=java&logoColor=white)](#)
+[![MVC](https://img.shields.io/badge/MVC-FF6F00?logo=visualstudiocode&logoColor=white)](#)
 [![Software Developer](https://img.shields.io/badge/Software%20Developer-%2300ADD8.svg?logo=codio&logoColor=white)](#)
 [![C Language](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)](https://github.com/search?q=c+language)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
