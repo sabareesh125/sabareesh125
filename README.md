@@ -20,6 +20,7 @@
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Cursor AI](https://custom-icon-badges.demolab.com/badge/Cursor%20AI-000000.svg?logo=cursor&logoColor=00FF99)](#)
+[![Cursor – Code Editing AI Platform](https://custom-icon-badges.demolab.com/badge/Cursor%20%E2%80%93%20Code%20Editing%20AI%20Platform-000000.svg?logo=cursor&logoColor=00FF99)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Front-End](https://img.shields.io/badge/Front--End-%23E34F26?logo=html5&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)](#)
